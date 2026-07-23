@@ -1,6 +1,8 @@
 <h1 align="center">Olá, eu sou o Jonathan Muller 👋</h1>
 <h3 align="center">Arquiteto de Software Full Stack & Engenheiro de Automação</h3>
-
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=8A2BE2¢er=true&vC… alt="Typing SVG" />
+</p>
 <p align="center">
   Transformando ideias complexas em arquiteturas escaláveis, aplicações de alta performance e automações inteligentes.
 </p>
