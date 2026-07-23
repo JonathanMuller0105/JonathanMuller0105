@@ -13,15 +13,6 @@ Sou um profissional focado no desenvolvimento de soluções robustas de ponta a 
 
 ---
 
-## 🎓 Formação & Certificações
-
-| Curso / Certificação | Instituição / Foco | Período / Status |
-| :--- | :--- | :--- |
-| **Arquitetura de Software & Full Stack** | Especialização Avançada | ![Concluído](https://img.shields.io/badge/Conclu%C3%ADdo-brightgreen?style=flat-square) |
-| **Engenharia de Automação e Processos** | Integração & n8n | ![Avançado](https://img.shields.io/badge/Especialista-blue?style=flat-square) |
-
----
-
 ## 💻 Stack Tecnológica
 
 ### **Frontend**
@@ -41,6 +32,16 @@ Sou um profissional focado no desenvolvimento de soluções robustas de ponta a 
 [![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 [![NoSQL](https://img.shields.io/badge/NoSQL-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 [![n8n](https://img.shields.io/badge/n8n-FF6584?style=for-the-badge&logo=n8n&logoColor=white)](https://n8n.io/)
+
+---
+
+## 🎓 Formação & Qualificações
+
+| Curso / Formação | Instituição | Status / Detalhes |
+| :--- | :--- | :--- |
+| **Análise e Desenvolvimento de Sistemas** | Anhanguera | ![Cursando](https://img.shields.io/badge/Cursando-FFB300?style=flat-square) |
+| **Engenharia de Software** | EBAC (Escola Britânica de Artes Criativas e Tecnologia) | ![Concluído](https://img.shields.io/badge/Conclu%C3%ADdo-brightgreen?style=flat-square) |
+| **Quality Assurance (QA)** | Iterasys | Testes manuais/automatizados, Python, Java, SQL, JS, Selenium, Postman, Azure DevOps e foco na experiência do cliente |
 
 ---
 
