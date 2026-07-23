@@ -1,8 +1,6 @@
 <h1 align="center">Olá, eu sou o Jonathan Muller 👋</h1>
 <h3 align="center">Arquiteto de Software Full Stack & Engenheiro de Automação</h3>
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=8A2BE2¢er=true&vC… alt="Typing SVG" />
-</p>
+
 <p align="center">
   Transformando ideias complexas em arquiteturas escaláveis, aplicações de alta performance e automações inteligentes.
 </p>
@@ -12,6 +10,15 @@
 ## 🚀 Sobre Mim
 
 Sou um profissional focado no desenvolvimento de soluções robustas de ponta a ponta e na otimização de processos através de engenharia de automação. Minha trajetória é marcada pela versatilidade técnica e pelo domínio de ecossistemas modernos de desenvolvimento web e integração de sistemas.
+
+---
+
+## 🎓 Formação & Certificações
+
+| Curso / Certificação | Instituição / Foco | Período / Status |
+| :--- | :--- | :--- |
+| **Arquitetura de Software & Full Stack** | Especialização Avançada | ![Concluído](https://img.shields.io/badge/Conclu%C3%ADdo-brightgreen?style=flat-square) |
+| **Engenharia de Automação e Processos** | Integração & n8n | ![Avançado](https://img.shields.io/badge/Especialista-blue?style=flat-square) |
 
 ---
 
