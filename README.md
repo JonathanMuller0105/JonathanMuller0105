@@ -2,7 +2,7 @@
   <!-- GIF de Apresentação / Developer Vibe -->
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJxcm45bmR4MjRucWJpYmYxaDY1ZW9rZnN3cjA0N3BneHRxZWp4YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUGGAC3P4V92zutW/giphy.gif" width="400" alt="Coding GIF"/>
 
-  <h1>Olá, eu sou o Jonathan Muller 👋✨</h1>
+  <h1>Seja bem vindo! Eu sou o Jonathan Muller 👋✨</h1>
   <h3>Arquiteto de Software Full Stack & Engenheiro de Automação</h3>
 
   <p align="center">
