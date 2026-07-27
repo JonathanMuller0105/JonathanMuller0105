@@ -19,7 +19,7 @@
 
 ## 🚀 Sobre Mim
 
-Sou um profissional apaixonado por tecnologia com ampla experiência em **Arquitetura de Software Full Stack** e **Engenharia de Automação**. Minha missão é transformar regras de negócio complexas em ecossistemas digitais de alta performance, unindo desenvolvimento robusto, automações inteligentes via `n8n` e uma visão rigorosa de qualidade (QA) aplicada à experiência do usuário.
+Sou um profissional apaixonado por tecnologia com ampla experiência em **Arquitetura de Software Full Stack** e **Engenharia de Automação**. Minha missão é transformar regras de negócio complexas em ecossistemas digitais de alta performance, unindo desenvolvimento robusto, automações inteligentes e uma visão rigorosa de qualidade (QA) aplicada à experiência do usuário.
 
 ---
 
