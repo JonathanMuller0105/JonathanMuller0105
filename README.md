@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJxcm45bmR4MjRucWJpYmYxaDY1ZW9rZnN3cjA0N3BneHRxZWp4YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUGGAC3P4V92zutW/giphy.gif" width="400" alt="Coding GIF"/>
 
   <h1>Seja bem vindo! Eu sou o Jonathan Muller 👋✨</h1>
-  <h3>Arquiteto de Software Full Stack & Engenheiro de Automação</h3>
+  <h3>Arquiteto de Software Full Stack & Automação</h3>
 
   <p align="center">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=61DAFB&center=true&vCenter=true&width=550&height=50&lines=Arquitetura+de+Software+Escal%C3%A1vel;Automa%C3%A7%C3%A3o+Inteligente+com+n8n;Desenvolvimento+Full+Stack+%26+QA" alt="Typing SVG" />
